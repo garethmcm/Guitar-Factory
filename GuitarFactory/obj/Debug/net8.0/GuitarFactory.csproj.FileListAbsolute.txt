@@ -1,0 +1,14 @@
+/Users/gareth/Documents/C#/Player's Guide/C20/GuitarFactory/GuitarFactory/bin/Debug/net8.0/GuitarFactory
+/Users/gareth/Documents/C#/Player's Guide/C20/GuitarFactory/GuitarFactory/bin/Debug/net8.0/GuitarFactory.deps.json
+/Users/gareth/Documents/C#/Player's Guide/C20/GuitarFactory/GuitarFactory/bin/Debug/net8.0/GuitarFactory.runtimeconfig.json
+/Users/gareth/Documents/C#/Player's Guide/C20/GuitarFactory/GuitarFactory/bin/Debug/net8.0/GuitarFactory.dll
+/Users/gareth/Documents/C#/Player's Guide/C20/GuitarFactory/GuitarFactory/bin/Debug/net8.0/GuitarFactory.pdb
+/Users/gareth/Documents/C#/Player's Guide/C20/GuitarFactory/GuitarFactory/obj/Debug/net8.0/GuitarFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gareth/Documents/C#/Player's Guide/C20/GuitarFactory/GuitarFactory/obj/Debug/net8.0/GuitarFactory.AssemblyInfoInputs.cache
+/Users/gareth/Documents/C#/Player's Guide/C20/GuitarFactory/GuitarFactory/obj/Debug/net8.0/GuitarFactory.AssemblyInfo.cs
+/Users/gareth/Documents/C#/Player's Guide/C20/GuitarFactory/GuitarFactory/obj/Debug/net8.0/GuitarFactory.csproj.CoreCompileInputs.cache
+/Users/gareth/Documents/C#/Player's Guide/C20/GuitarFactory/GuitarFactory/obj/Debug/net8.0/GuitarFactory.dll
+/Users/gareth/Documents/C#/Player's Guide/C20/GuitarFactory/GuitarFactory/obj/Debug/net8.0/refint/GuitarFactory.dll
+/Users/gareth/Documents/C#/Player's Guide/C20/GuitarFactory/GuitarFactory/obj/Debug/net8.0/GuitarFactory.pdb
+/Users/gareth/Documents/C#/Player's Guide/C20/GuitarFactory/GuitarFactory/obj/Debug/net8.0/GuitarFactory.genruntimeconfig.cache
+/Users/gareth/Documents/C#/Player's Guide/C20/GuitarFactory/GuitarFactory/obj/Debug/net8.0/ref/GuitarFactory.dll
